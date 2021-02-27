@@ -1,4 +1,4 @@
-[![Header](https://mir-s3-cdn-cf.behance.net/894e001e8e9d1b56ca5a9ab97ec73b56/674ea8c5-b923-4b8c-8629-67bc6e3def34_rwc_0x234x1280x141x1280.png?h=4c1f79b15cd3b87af26f0a3d58349bd6)](https://www.amsayed.dev/)<!-- If you want the template for my gif, email me! -->
+[![Header](https://github.com/halfrost/halfrost/raw/master/icons/header_.png)](https://www.amsayed.dev/)<!-- If you want the template for my gif, email me! -->
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Ahmed Sayed 👨‍💻
 
 I am a Data Engineer - Machine-learning - Full stack web developer. I am passionate about technologies and love to learn new things.
@@ -26,7 +26,8 @@ I am a Data Engineer - Machine-learning - Full stack web developer. I am passion
 ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 
 ## 📫 Get in touch
-- LinkedIn - [Adnan Azmee](https://in.linkedin.com/in/amsayed)
+
+- LinkedIn - [Ahmed Sayed](https://in.linkedin.com/in/amsayed)
 
  or give some ♥ on [mail](mailto:amsayed.dev@gmail.com) .
 
