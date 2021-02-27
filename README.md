@@ -1,5 +1,7 @@
 [![Header](https://mir-s3-cdn-cf.behance.net/894e001e8e9d1b56ca5a9ab97ec73b56/674ea8c5-b923-4b8c-8629-67bc6e3def34_rwc_0x234x1280x141x1280.png?h=4c1f79b15cd3b87af26f0a3d58349bd6)](https://www.amsayed.dev/)<!-- If you want the template for my gif, email me! -->
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Ahmed Sayed 👨‍💻
 
+I am a Data Engineer - Machine-learning - Full stack web developer. I am passionate about technologies and love to learn new things.
 ### Languages
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
@@ -23,6 +25,13 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 
+## 📫 Get in touch
+- LinkedIn - [Adnan Azmee](https://in.linkedin.com/in/amsayed)
 
+ or give some ♥ on [mail](mailto:amsayed.dev@gmail.com) .
+
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=amsayeed/amsayeed)
 
 <a href="https://www.amsayed.dev/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
