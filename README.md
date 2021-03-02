@@ -5,9 +5,9 @@ I am a Data Engineer - Machine-learning - Full stack web developer. I am passion
 ### Languages
 ![PHP](https://img.shields.io/badge/-php-000?&logo=php&logoColor=ddc508)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)]
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 ![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=ddc508)
-![C](https://img.shields.io/badge/-C-000?&logo=C)]
+![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
