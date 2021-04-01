@@ -28,7 +28,7 @@ I am a Data Engineer - Machine-learning - Full stack web developer. I am passion
 
 ## 📫 Get in touch
 
-- LinkedIn - [Ahmed Sayed](https://in.linkedin.com/in/amsayed)
+- LinkedIn - [Ahmed Sayed](https://www.linkedin.com/in/amassed/)
 
  or give some ♥ on [mail](mailto:amsayed.dev@gmail.com) .
 
