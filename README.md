@@ -1,20 +1,22 @@
 [![Header](https://github.com/halfrost/halfrost/raw/master/icons/header_.png)](https://www.amsayed.dev/)<!-- If you want the template for my gif, email me! -->
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Ahmed Sayed 👨‍💻
 
-Data engineer experienced in data warehouses designing using Kimball / Inmon / Data Mart / Hybrid. 
-Data Streaming solutions development using Apache Kafka - Spark Streaming - Apache Flink 
-Data Modeling RMDB – Apache Cassandra – HBASE - HIVE
-Have written Python framework for Data Lake automation which saved lots of development hours.
-Python scripts for data scrapping – data mining - Process Automation - web Automation 
-Python ETL piplines on Airflow
-Have extensive Data Integration experience using ETL development using SSIS, Talend, Python, 
-API Development and integration through REST, and SOAP Development.
-Big Data Technologies Hadoop -SPARK 
-I am writing and Optimized SQL queries on different database platforms like Netezza, SQL Server, Oracle, PostgreSQL, MySQL ... etc.
-Excellent software development, Develop Data-Driven Applications using ASP.NET MVC, PHP and Python Flask Django FastAPI 
-AWS RedShift DB – RDS - EC2 – EMR – S3
+<ul>
+  <li>Data engineer experienced in data warehouses designing using Kimball / Inmon / Data Mart / Hybrid. </li>
+  <li>Data Streaming solutions development using Apache Kafka - Spark Streaming - Apache Flink </li>
+  <li>Data Modeling RMDB – Apache Cassandra – HBASE - HIVE</li>
+  <li>Data Lake automation</li>
+  <li>Python scripts for data scrapping – data mining - Process Automation - web Automation </li>
+  <li>Python ETL piplines on Airflow</li>
+  <li>Have extensive Data Integration experience using ETL development using SSIS, Talend, Python, </li>
+  <li>API Development and integration through REST, and SOAP Development.</li>
+  <li>I am writing and Optimized SQL queries on different database platforms like Netezza, SQL Server, Oracle, PostgreSQL, MySQL ... etc.</li>
+  <li>Excellent software development, Develop Data-Driven Applications using ASP.NET MVC, PHP and Python Flask Django FastAPI </li>
+  <li>AWS RedShift DB – RDS - EC2 – EMR – S3</li>
+  <li>Full stack web developer</li>
+</ul>
 
-![image](https://user-images.githubusercontent.com/51032146/114901280-eeed5d80-9e14-11eb-876c-9c7b366521e9.png)
+
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
