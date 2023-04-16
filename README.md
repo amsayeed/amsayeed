@@ -1,19 +1,22 @@
 [![Header](https://github.com/halfrost/halfrost/raw/master/icons/header_.png)](https://www.amsayed.dev/)<!-- If you want the template for my gif, email me! -->
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Ahmed Sayed 👨‍💻
-
+<p>Senior Data Engineer with 12+ years of experience building and optimizing data and analytics solutions. Proficient in all major data stacks, platforms, and technologies including Hadoop, SQL, Spark, Python, and Azure. Strong capacity for translating complex business requirements into robust data pipelines and architectures. Leverage technical, analytical, and communication skills to extract business insights and drive key decisions based on data analytics.
+Key areas of expertise:<p>
 <ul>
-  <li>Data engineer experienced in data warehouses designing using Kimball / Inmon / Data Mart / Hybrid. </li>
+  <li>Data Architecture - Designing and building data architectures on platforms like Hadoop, SQL Server, Postgres, and Snowflake. expertise in data modeling (SQL & NoSQL), ETL (SSIS, Talend, PDI, Airflow), data warehousing (Kimball / Inmon / Data Mart / Hybrid), data lake, and data lakehouse design. </li>
   <li>Data Streaming solutions development using Apache Kafka - Spark Streaming - Apache Flink </li>
   <li>Data Modeling RMDB – Apache Cassandra – HBASE - HIVE</li>
-  <li>Data Lake automation</li>
-  <li>Python scripts for data scrapping – data mining - Process Automation - web Automation </li>
-  <li>Python ETL piplines on Airflow</li>
-  <li>Have extensive Data Integration experience using ETL development using SSIS, Talend, Python, </li>
-  <li>API Development and integration through REST, and SOAP Development.</li>
+  <li>Building data products and platforms for both internal stakeholders and external customers.</li>
+  <li>Analytics & Visualization - Building analytics and reporting solutions using tools like Tableau, Power BI, R, Python, and Spark for advanced analytics. Expertise in predictive modeling, statistical analysis, and data mining. </li>
+  <li>ETL development using SSIS, Talend, Python, PDI , DataStage , DataFactory and Airflow </li>
+    <li>Analytics & Visualization - Building analytics and reporting solutions using tools like Tableau, Power BI, R, Python, and Spark for advanced analytics. Expertise in predictive modeling, statistical analysis, and data mining. </li>
+  <li>Analytics & Visualization - Building analytics and reporting solutions using tools like Tableau, Power BI, R, Python, and Spark for advanced analytics. Expertise in predictive modeling, statistical analysis, and data mining. </li>
+  <li>Process Automation through Data scraping, Bot Development, and RPA Robotic Process Automation</li>
   <li>I am writing and Optimized SQL queries on different database platforms like Netezza, SQL Server, Oracle, PostgreSQL, MySQL ... etc.</li>
-  <li>Excellent software development, Develop Data-Driven Applications using ASP.NET MVC, PHP and Python Flask Django FastAPI </li>
-  <li>AWS RedShift DB – RDS - EC2 – EMR – S3</li>
-  <li>Full stack web developer</li>
+  <li>Exellent software development, Develop Data-Driven / BI Applications using Python Flask & Django  </li>
+  <li>API development using Python Flask & FastAPI</li>
+  <li>Agile Methodologies - Experience working in Agile environments using methodologies such as Scrum and Kanban. Adept at translating product requirements into technical specifications and delivering data solutions.</li>
+  <li>Leadership & Communication - Ability to communicate clearly with business and technical stakeholders. Strong mentorship and team-building skills. Experience managing relationships with clients, executives, and cross-functional teams.</li>
 </ul>
 
 
