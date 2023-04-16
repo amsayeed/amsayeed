@@ -77,12 +77,11 @@ Key areas of expertise:<p>
 
 ## 📫 Get in touch
 
-- LinkedIn - [Ahmed Sayed](https://www.linkedin.com/in/amassed/)
+- LinkedIn - [Ahmed Sayed](https://www.linkedin.com/in/amsayeed/)
+- Meduim - [Ahmed Sayed](https://amsayed.medium.com)
 
- or give some ♥ on [mail](mailto:amsayed.dev@gmail.com) .
-
-
+ 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=amsayeed/amsayeed)
 
-<a href="https://www.amsayed.dev/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a href="#"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
